@@ -1,0 +1,137 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+body{
+    width: 230vh;
+    height:1200vh;
+    
+}
+li{
+    padding:5px;
+}
+a{
+    display:block;
+    padding: 10px 34px;
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    background-color: brown;
+    color: lightblue;
+}
+a.select{
+     background-color: brown;
+    color: lightblue;
+
+}
+/*----welcome to our---*/
+
+.structure img{
+    transform: translate(180px,60px);}
+
+/*----count---*/    
+.section{
+    padding:20px;
+    margin-top: 150px;
+    background-color: #000000c4;
+}
+h1,p2{
+    color: azure;
+}
+.counter-label {
+    margin-left:20px;
+}
+
+/*---- discovery---*/
+
+.dialicious{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+
+}
+h6{
+    color: orange;
+    font-weight: 700;
+}
+.discussion {
+    transform: translate(10px,10px);
+
+}
+/*---fresh....*/
+.trending card{
+    padding:20px;
+    margin-top:100px;
+    background-color: blanchedalmond;
+
+}
+
+
+/*---our main menu-----*/
+.book{
+    margin-top:0px;
+}
+.nav-item a{
+    color:black;
+}
+.progress{
+    line-break:auto;
+}
+/*---our trending----*/
+.trending{
+    background-color: antiquewhite;
+    }
+/*---today ----*/
+.menu img{
+    width: 200px;
+}
+.menu{
+    background-color: beige;
+}
+/*...our professional chefs----*/
+
+
+.cardbody{
+    background-color:bisque;
+   
+}
+.card{
+    border-radius: 20px;
+    overflow: hidden;
+}
+.card img{
+    width: 290px;
+    height: 270px;
+}
+/*---what client says---*/
+
+#section{
+    display: flex;
+    align-items: center;
+}
+.list{
+    padding: 20px;
+}
+.content{
+    background-color:burlywood;
+}
+/*---hello reverse---*/
+p3{
+    font-size: larger;
+    color:blue;
+    font-weight: 900;
+}
+pre{
+    color:blue;
+    font-weight: 800;
+}
+.list h2{
+   color: black;
+   font-weight:bold;
+}
+form{
+    margin-bottom: 20px;
+}
